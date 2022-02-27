@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech of Thomas Mercer, merchant, spoken a little before his death, being executed in the parish of S. Mildred, neere the Poultrey, the 27. of May. 1645. wherein is set forth, [brace] 1. His sins against God, 2. The cause of Gods iudgement still among us, &amp; 3. His advise to his wife.</title>
+            <author>Mercer, Thomas, d. 1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89058</idno>
+            <idno type="STC">Wing M1734</idno>
+            <idno type="STC">Thomason E286_6</idno>
+            <idno type="STC">ESTC R200076</idno>
+            <idno type="EEBO-CITATION">99860880</idno>
+            <idno type="PROQUEST">99860880</idno>
+            <idno type="VID">113007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113007)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E286[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech of Thomas Mercer, merchant, spoken a little before his death, being executed in the parish of S. Mildred, neere the Poultrey, the 27. of May. 1645. wherein is set forth, [brace] 1. His sins against God, 2. The cause of Gods iudgement still among us, &amp; 3. His advise to his wife.</title>
+                  <author>Mercer, Thomas, d. 1645.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Cole at the signe of the Printing Presse in Corne-hill, neer the Royall Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mercer, Thomas, d. 1645.</term>
+               <term>Dying declarations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113007:1" rendition="simple:additions"/>
+            <p>A SPEECH OF <hi>THOMAS MERCER,</hi> Merchant, Spoken a little before his death, being executed in the Parish of <hi>S. Mildred,</hi> neere the <hi>Poultrey,</hi> the 27. of <hi>May.</hi> 1645.</p>
+            <p>wherein is set forth, 
+<list>
+                  <item>1. His sins against God,</item>
+                  <item>2. The Cause of Gods Iudge<g ref="char:EOLhyphen"/>ment still among us, &amp;</item>
+                  <item>3. His advise to his Wife.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Peter Cole</hi> at the signe of the Printing Presse in <hi>Corne-hill,</hi> neer the Royall <hi>Exchange,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="scaffold_speech">
+            <pb facs="tcp:113007:2"/>
+            <pb n="3" facs="tcp:113007:2"/>
+            <head>A Speech of <hi>THOMAS MERCER,</hi> Merchant, spoken a little before his death, being executed in the parish of S. <hi>Mildred</hi> neere the Poultrey the 27. of <hi>May,</hi> 1645.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is observeable, that the actions of dying men are most remarkeable, and I conceive here are many good people does expect I should say something concerning my latter end; I must confesse it has bin my chiefest ayme, to apply my heart unto wisdome, and to make my peace with my God, whom I have so highly of<g ref="char:EOLhyphen"/>fended, both in thought word, and deed: If you should aske what those sins are, I should answer; that for number they would put the best Arethmitician past his account, for they are innumerable; more then the sands on the Sea-shore, for their weight intollerable, not to be borne, neither by men nor Angels; but by the imputative Righteousnesse of my bles<g ref="char:EOLhyphen"/>sed Saviour, who I hope hath nayled them to his Crosse, hid them in his wounds, and bathed them in his most preci<g ref="char:EOLhyphen"/>ous blood, that they may neither shame mee here, or condemne mee hereafter: I must confesse I have sear<g ref="char:EOLhyphen"/>ched my heart-from one corner to the other; and left no place unsearched, nor sin I hope unrepented of; although the world may judge of me, and that scandallously it matters not; I wave it, as S. <hi>Iohn</hi> saith, <hi>They judge but according to outward appearance,</hi> I beleeve they are such as have <hi>Argus</hi> eyes, that pry into other mens faults, and sentens them but few of them have <hi>Cornelius</hi> hands to cherish and comfort them whom they judge; but as our Saviour saith, <hi>Iudge not, lest ye be judged;</hi> for my part I heartily forgive them all, the Lord in mercy forgive them. I shall only leave unto them this les<g ref="char:EOLhyphen"/>son of a servant of Christs, that would never look upon any mans fault with one eye, but would presently reflect upon himselfe with the other eye: and say thus, in this my vyle heart, remains this sin, which without the speciall grace of God, I should have committed. Blood I know is a crying sin,
+<pb n="2" facs="tcp:113007:3"/>
+and the vengeance of God due to it, if not truly repented of, but I know that by true repentance, and humiliation and lively faith to lay hold one the merrits of Iesus Christ, he is both able and will wash away my sins in his precious blood, therefore not to despaire but stedfastly to lay hold on the pretious promises that he hath made to all true penitents be their sinnes never so great or many, but he will pardon them, therfore I raise these as comforts to my self of his mercy unto great sinners <hi>Manasses</hi> that made Ci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les to run down with blood, <hi>Peter</hi> that denyed his Master, <hi>Saul</hi> that persecuted the Church, <hi>David</hi> that sinned in a big nature, yet upon true repentance obtained mercy, not that I presume upon these because they sinned and repented, therfore I should be saved, but Lord grant me true repentance for mine own sins, for I know I shall not suffer for other mens sins, nor be saved by another mans righteousnes, for as our Sa<g ref="char:EOLhyphen"/>viour saith concerning them one whom the Tower of <hi>Siloam</hi> fell except yee repent yee shall also likewise perish. And ther<g ref="char:EOLhyphen"/>fare I shall desire of you all good people your charitable opi<g ref="char:EOLhyphen"/>nion of me, and your prayers for me as long as I shall live here in this life, &amp; though the rigour of the Law hath taken hold of me, more then of others, God knowes my heart, I speak not against any favour others have received, for as we say <hi>Lex nervae republicae,</hi> and tis well knowen, to the greatest Lawyers the Law is the nerves and sinnewes of the Common-wealth And without the Law there could be no communion amongst men, but when Iustice shall be perverted, when the Law says it is so, and the Iudge says it is so, according to Law: and yet Iudgement passe contrary to Law, it makes me not wonder then, and indeed the more not to wonder, that when Gods Iudgements and heavie ones to are upon us, when we are she<g ref="char:EOLhyphen"/>thing one anothers Swords in one anothers bowels, and yet we fast and pray, and humble our selves. Yet no Iudgement diver<g ref="char:EOLhyphen"/>ted: but rather increased whats the reason! lay it to beart I beseech you, Iustice is turned backward, it hath cast of the vayle from of her face and respecteth one more then another, this is not God-like, who hath no respect of persons, but the soule that sinneth is to dye. We have fasted indeed but how, as the Lord complaines in the 58. <hi>Esay</hi> to strife, and to debate, and smite with the fist of wickednesse, to taking of bribes. But I
+<pb n="3" facs="tcp:113007:3"/>
+pray God establish your laws in the right meaning of them, &amp; you that are Iudges, follow the example of that in the 2 <hi>Cro.</hi> 19. 6. 7. That Iudges take heed what they do, for you judge not for man, but for the Lord, who is with you in Judgement: wherfore now let the fear of the Lord be upon you, take heed, and do it, for there is no iniquity with the Lord our God, no respect of persons, nor taking of gifts, as I shall answer before God, that the accident that happend, for which I now die, I had no prepension, or intended malice against any man, but I blame none, I forgive them all, the Lord forgive them in mercy, <hi>psa.</hi> 116. 
+
+<q rend="italic">I love the Lord, because he hath heard my voice and supplication, because he hath inclined his eare unto me, therfore will I call upon him as long as I live, the sorrows of death compassed me and the paines of hell gat hold upon me, I found trouble and sorrow, then called I upon the name of the Lord. Oh Lord I beseech thee deliver my soule, gracious is the Lord, and righteous, yea our God is mercifull, the Lord preserveth the simple: I was brought low, and he helped me, returne unto his rest O my soule, for the Lord hath dealt bountifully with thee, for thou hast deli<g ref="char:EOLhyphen"/>vered my soule from death, my eyes from tears, and my feet from falling, I will walke before the Lord in the land of the living, I beleeve, therfore have I spoken; I was greatly afflicted; I said in my haste all men ore lyars, what shall I render unto the Lord for all his benefits? I will take the cup of salvation, and will call upon the name of the Lord, I will pay my vowes now unto the Lord, in the presence of all this people, precious in the sight of the Lord, is the death of his Saints. O Lord truly I am thy servant, and the Son of thine hand maid, thou hast loosed my bonds, I will offer up unto thee the sacrifice of thanksgiving, and will call upon the name of the Lord: I will pay my vows now unto the Lord in the presence of all this people, in the Courts of the Lords owne house, in the midst of thee oh Ierusalem prayse we the Lord.</q>
+            </p>
+            <p>Oh most gracious, eternall, everliving, and ever loving Lord God, and my most mercifull Father in Iesus Christ for his sake have mer<g ref="char:EOLhyphen"/>cy upon my poor soule. Oh thou iust Iudge of all the world have mercy upon me: oh holy and blessed Spirit have mercy upon me: oh holy blessed and glorious Trinity have mercy upon me, &amp; clense me from all my sins of what nature or degree soever; Lord thou knowest my private humiliations prayers and teares before thee though in much weaknesse, yet accept them from the most unworthi<g ref="char:EOLhyphen"/>est of all thy servants: I pray thee deale not with me after my sins, neither reward me after mine iniquities: Lord I am heartily sorry for my sins, and am grieved that I can be no more sorrowfull, but o, specially I am grieved that I have offended, so good, so gracious and so mercifull a Father, so loving a Saviour Oh forgive me that <hi>I</hi> have grieved thy Holy Spirit, that from time to time hath sugg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sted such good motions into my heart, oh <hi>I</hi> have slighted them, and slighted,
+<pb n="4" facs="tcp:113007:4"/>
+Thy word, Sacraments, and Sabbath, all thine ordinances: I beseech thee Holy Father, for Iesus Christ his sake, lay not those sins to my charge; and I beseech you good people take warning by me of slighting the means of salvation, which I feare hath bin the main cause, that the Lord hath bin pleased to lay his afflicting hand upon me, which I confesse, I have justly deserved; and therefore desire heartily to be forgiven; the good Lord forgive me; and sanctifie his afflictions unto me, and to all good people; for I know that affliction come by the Almighty providence of God: but S. <hi>Paul</hi> comforts them, that suffers afflictions here in this life; if we beare them pa<g ref="char:EOLhyphen"/>tiently, we shall receive an eternall waite of glory hereafter, which God of his infinit mercy grant unto all afflicted per<g ref="char:EOLhyphen"/>sons, in what place, or case soever, especially in this kingdom, And herein and above the rest, let us pray for the Kings most excellent Majestie, Lord as thou hast graced him with a Crown, so crowne him with thy grace, blesse his noble Con<g ref="char:EOLhyphen"/>sort, Queen <hi>Mary:</hi> And Lord as thou hast made them both of one flesh so make them both of one spirit in truth, in the Protestant Religion. Blesse our hopefull Prince <hi>Charles,</hi> with the rest of that Royall Progenie. Lord blesse the Parlia<g ref="char:EOLhyphen"/>ment, unite the King, and his great Councell together, for the good and peace of this Kingdom. Lord heale the distra<g ref="char:EOLhyphen"/>ctions of the people; and Lord if it be thy will sheath up thy devouring sword, settle we pray thee this unnaturall war, that thy people may embrace one another in bonds of peace, and not in effusion of blood, and in thy good time stop this is<g ref="char:EOLhyphen"/>sue of blood, &amp; turne the stream of that into the bosome of thine, &amp; thy peoples enemies; blesse I beseech thee all good people here present, Lord blesse all my kindred &amp; acquain<g ref="char:EOLhyphen"/>tance. Lord I beseech thee blesse my dear wife and children, whom I ever loved with a reall inward, and unfeigned affe<g ref="char:EOLhyphen"/>ction, though I confesse I have not bin so careful as I ought to have bin. Lord lay not this sin to my charge; &amp; I beseech thee set not any offence of mine stain any of them by any out<g ref="char:EOLhyphen"/>ward scandall or reproach, but blesse them all I heartily be<g ref="char:EOLhyphen"/>seech thee, for out of the deapths have I called unto thee Lord, heare my voice, and let my cry come up unto thee, for if thou shouldst marke what is done amisse, who could stand be<g ref="char:EOLhyphen"/>fore
+<pb n="5" facs="tcp:113007:4"/>
+thee; therefore with <hi>David</hi> in thee 119. <hi>Psal. I pray remove from me reproach, and contempt, for I have kept thy testimonies, thou hast taught us O Lord, whereby a young man shall cleanse his way, that is by taking heed unto thy word.</hi> 
+               <unclear>Grant</unclear> Lord I beseech thee, that all young men here present may take heed, &amp; learne this lesson, that by my example they fall not into the like er<g ref="char:EOLhyphen"/>rors I have done, which hath bin the cause that God hath ta<g ref="char:EOLhyphen"/>ken me in the flower and strength of my years, and taken mee from my dear wife &amp; children, the Lord blesse them, and pro<g ref="char:EOLhyphen"/>vide for them, and I beleeve the Lord wil according to his pro<g ref="char:EOLhyphen"/>mise in the 68. <hi>Psal.</hi> 6. <hi>The Lord set the solitary in families, and he brings out those that are bound with chains, but the rebellious dwell in a dry land:</hi> and in the 37. <hi>Psal. He hath promised not to forsake the righteous, nor suffer his seed to beg their bread.</hi> And here I shall de<g ref="char:EOLhyphen"/>sire all my loving neighbours, that they would give this causion of comfort unto my deare wife: my direction is that in the first place she seeke Iesus Christ and to lay hold one him by a lively faith, to seeke to him by prayer, to heare often his word, &amp; as of<g ref="char:EOLunhyphen"/>ten as oppertunitie permits to receave the Sacrament, &amp; all in sincerity of heart, I speake not this as if these things were wan<g ref="char:EOLhyphen"/>ting in her, but that she should persist as she hath begun to her lives end. And my soul for thine thou wilt be prosporous here and everlastingly happy hereafter. I pray God blesse my poore tender babes, and I pray deare wife to thy power, (for I know thou lovest them,) to bring them up in the rudiments of lear<g ref="char:EOLhyphen"/>ning especially of Religion and the Lord blesse it to them, and make them obdient children to thee, And I in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat thee be wary of giving them the raines at first, for to muuh indulgencie being perceived does incourage young twigs to sprout up like the Ivy which surrounds the oake and binds it as it were at its command, therefore whyle they are green be carefull of them, and fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>low Sollomans rule in the .II. <hi>Prov</hi> 6. te<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch a Child when he is young in the way that he shoould walke, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen he is old he will not depart from it, and I pray thee comfort thy sealfe in the Lord although the time be hard &amp; charity be cold, it matters not if you rely upon him you cannot want, the Lord knows saith S. <hi>Iames</hi> what is best for you, as I told you before you have his promise in .37. <hi>Psa.</hi> &amp;. 67. 6. he sets the sollitary in families, and though he do
+<pb n="6" facs="tcp:113007:5"/>
+afflict by gentle means it is for our good, for as <hi>David</hi> saith, it was wel for me that I was afflicted, for before I went astray; and the Apostle saith, <hi>Fla<g ref="char:EOLhyphen"/>gelum omnem filium quem recipit,</hi> he whips every Son whom he receiveth; therfore take Crosses as comforts, they are true symptoms of Christians, if so sanctified unto them as we have bin taught, that the Crosse is an unsepa<g ref="char:EOLhyphen"/>rable companion of a Christian, and for my part I never read of any of the deare Children of Christ, but have suffered afflictions by one means or o<g ref="char:EOLhyphen"/>other. And though they seem tedious and irksome here; yet by the provi<g ref="char:EOLhyphen"/>dence of God unto whom they are sanctified, they are joyes in sadnesse, lights in darknes, Heaven in hell, but here heed must be taken, that afflicti<g ref="char:EOLhyphen"/>on; must be seriously laid to heart, and grounded upon the right princill from whence we receive them. We must not bear them in ostentation, or in imaginary showes, that pleases not God, &amp; therfore we must labour to know whe<g ref="char:EOLunhyphen"/>ther they be from God or not, and there be several signs, by which they may be known first if we bear them patiently, &amp; that for Christ who suffered patiently for us. 2. They must be borne willingly, submitting to the will of our Heavenly Father as Christ did 3. They must be borne comfortably, not as punishment, but as pledges of Gods favour seeing then that God is pleased to deale with us as with his dearest Servants, how thankfull ought we to be, &amp; ready alwayes to embrace them here, that we may find the comfort of them hearafter, for <hi>David</hi> knew wel enough that the Lord would maintaine the cause of the afflicted, and the right of the poore, <hi>psal.</hi> 140. 12. And therefore it mat<g ref="char:EOLhyphen"/>ters not what my fellow actors upon the stage of this world say, God is the great spectator that beholds the secrets of every mans heart, &amp; therefore I wave al relations of this world, &amp; role my selfe upon my cheife Rock, my saviour Iesus Christ and with <hi>David</hi> I shall pray, Lord let the sighing of the prisoner com before thee, according to the greatnesse of thy power preserve thou those that are appointed, to dye and Lord I returne unto thee from the bottom of my heart all humble &amp; hearty thanks for that great &amp; inestimable providenc over me, forgiving me so long and so large a time of repentance, that when men wold have destroyed me, even as it were in a moment be<g ref="char:EOLhyphen"/>fore i might have time to send up one sorrowfull groane unto thee for my sins, and that i had ofended so gracious a God.</p>
+            <p rend="italic">Yet even thou Lord, hadst compassion on me, and liftest me up, Oh what shall I render unto thee for all thy benefits towards me. <hi>I</hi> wil take the cup of salvation, and call upon the name of the Lord as long as <hi>I</hi> live. Oh Lord hear my prayer, and have mercy upon mee a poore sinner, accept of me in Iesus Christ. Sweet Iesus plead thy merits for me to thy Fa<g ref="char:EOLhyphen"/>ther, who hath made full satisfaction for all my sins, and for the sins of all those that truly lay hold on thee, Lord yet strengthen my faith that nothing may separate me from thee, nei<g ref="char:EOLunhyphen"/>ther life nor death, nor any thing may separate me from the love of God, which is in Christ Iesus my Lord, and only Saviour, who sitteth at the right hand of God making intercession f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r all that are weary, and heavy laden with their sins: now Lord <hi>I</hi> come unto thee, where <hi>I</hi> shall receive everlasting joy, and comfort: Oh <hi>I</hi> beseech thee accept of my poor person and prayers now before thee. And though death looke grym, <unclear>one</unclear> nature, yet by thy grace, it is ad<g ref="char:EOLhyphen"/>vantage unto all thine Elect, for thou hast broken the bars of death, and of hell; and there<g ref="char:EOLhyphen"/>fore through thy merits, <hi>I</hi> meet death, as a Bride groom doth his Bride, with joy and com<g ref="char:EOLhyphen"/>fort, and that through Iesus Christ my Lord, and only Saviour, in whose blessed name and words <hi>I</hi> conclude my imperfect prayers, in that absolute forme of prayer which be himselfe hath taught us, saying, Our Father, &amp;c.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
